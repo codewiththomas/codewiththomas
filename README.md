@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Asp.Net Core WebAPIs and Blazor Apps
+- I'm currently working on the TAS E-Coach (https://tas-ecoach.de)
+- I'm a Softwaredeveloper, focusing on .NET (APIs, Blazor)
+- For some legacy projects I stay tuned with PHP (CakePHP)
+- Currently I am making my Masters Degree in Data Science
 
 
 
